@@ -1,4 +1,4 @@
-import React, { useRef, useState } from 'react';
+import React, { useRef } from 'react';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 import {
